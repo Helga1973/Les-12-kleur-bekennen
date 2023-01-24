@@ -1,0 +1,113 @@
+header {
+    background-color: rgb(100, 100, 100); 
+    width: 100%; 
+    height: 100px; 
+    border: 5px solid; 
+    border-color: white;
+    }
+
+body {
+    background-color: rgb(200, 200, 200);
+    }
+
+footer {
+    background-color: rgb(150, 150, 150); 
+    width: 100%; 
+    height: 100px; 
+    border: 5px solid; 
+    border-color: white; 
+    color: white;
+    }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    }
+
+td {
+    width: 250px; 
+    height: 200px; 
+    text-align: center; 
+    border: 5px solid; 
+    border-color: rgb(250, 250, 250);
+    }
+
+img {
+    width: 200px; height: 150px; 
+    align-items: center; 
+    border: 5px solid; 
+    border-color: white;
+    }
+
+h1 {
+    text-align: center;
+    }
+
+p {
+    text-align: center;
+    }
+
+#a{
+    background-color: red;
+    }
+
+#b{
+    background-color: blue;
+    }
+
+#c{
+    background-color: green;
+    }
+
+#d{
+    background-color: purple;
+    }
+    
+#e{
+    background-color: lightgreen;
+    }
+
+#f{
+    background-color: orange;
+    }
+
+#g{
+    background-color: darkred;
+    }
+
+#h{
+    background-color: orangered;
+    }
+
+#i{
+    background-color: yellow;
+    }
+
+#j{
+    background-color: darkorange;
+    }
+
+#k{
+    background-color: darkgreen;
+    }
+
+#l{
+    background-color: crimson;
+    }
+
+#m{
+    background-color: blueviolet;
+    }
+
+#n{
+    background-color: aquamarine;
+    }
+
+#o{
+    background-color: indianred;
+    }
+
+#p{
+    background-color: springgreen;
+    }
